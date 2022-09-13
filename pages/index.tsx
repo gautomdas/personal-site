@@ -10,7 +10,7 @@ export default function Home({}) {
       <script src="https://cdn.jsdelivr.net/npm/p5@1.4.2/lib/p5.js"></script>
       <script src="./sketch.js" async></script>
       <script src="./vimStyleBindings.js" async></script>
-      <p className="text-3xl font-semibold font-sans pt-32">
+      <p className="text-3xl font-semibold font-sans pt-16 md:pt-32">
         Hi, my name is Gautom Das
       </p>
       <p className="italic font-serif pt-8">[Last updated on 9/7/22]</p>
